@@ -38,10 +38,4 @@ The companion website for this course is available at (Soon..). It contains addi
 ## How to Use This Repository
 - **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
 - **Navigate the Directories**: Explore the folders to access slides, activities, videos, and papers.
-- **Stay Updated**: Pull the latest changes regularly to ensure you have the most recent resources.
-
-## Contributing
-Contributions to this repository, such as additional resources, corrections, or improvements, are welcome. Please open a pull request or submit an issue to contribute.
-
-## License
-This repository is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the content within this repository in accordance with the license terms.
+- **Stay Updated**: Pull the latest changes regularly to ensure you have the most recent resources
