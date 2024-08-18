@@ -4,7 +4,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: What is Interaction Design?",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_1876db5e27274e58a4bd052ea48f72ae.pptx"
             }
         ]
     },
@@ -13,7 +13,7 @@
         "chapters": [
             {
                 "title": "Chapter 2: The Process of Interaction Design",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_57f7687aa63f4633918a80ce70b749d6.pptx"
             }
         ]
     },
@@ -22,15 +22,15 @@
         "chapters": [
             {
                 "title": "Chapter 4: Cognitive Aspects",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_de48971f58dd4b17a7b1c51b86f69931.pptx"
             },
             {
                 "title": "Chapter 5: Social Interaction",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_7725677574a04751b746c014362548fc.pptx"
             },
             {
                 "title": "Chapter 6: Emotional Interaction",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_ee1623db0c324939906520ef6e7cdd34.pptx"
             }
         ]
     },
@@ -39,7 +39,7 @@
         "chapters": [
             {
                 "title": "Chapter 7: Interfaces",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_77825002ba274aaeb10df2c74a48f85d.pptx"
             }
         ]
     },
@@ -48,7 +48,7 @@
         "chapters": [
             {
                 "title": "Chapter 8: Data Gathering",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_26f619bf9ad347bea82c5f86562df013.pptx"
             }
         ]
     },
@@ -57,7 +57,7 @@
         "chapters": [
             {
                 "title": "Chapter 9: Data Analysis, Interpretation, and Presentation",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_a088fb2176334d0e8d54283c29dff592.pptx"
             }
         ]
     },
@@ -66,7 +66,7 @@
         "chapters": [
             {
                 "title": "Chapter 10: Data at Scale and Ethical Concerns",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_ed8c390a7df94a8b80b7cd44c2596fe0.pptx"
             }
         ]
     },
@@ -75,7 +75,7 @@
         "chapters": [
             {
                 "title": "Chapter 12: Design, Prototyping, and Construction",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_cdedcd55f1314110a581a9a2325bf75f.pptx"
             }
         ]
     },
@@ -84,33 +84,28 @@
         "chapters": [
             {
                 "title": "Chapter 14: Introducing Evaluation",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_50285ab984154bdbaeb0bb838fc2999d.pptx"
             },
             {
                 "title": "Chapter 15: Evaluation Studies: From Controlled to Natural Settings",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_8dbad7f20d3e470b9efb30ab6f7f85b9.pptx"
             },
             {
                 "title": "Chapter 16: Evaluation: Inspections, Analytics, and Models",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_8163aa36b1874fd59f89312ba1b575e7.pptx"
             }
         ]
     },
     {
         "topic": "User interfaces high-fidelity design and development",
-        "chapters": [
-            {
-                "title": "Chapter 11: Discovering Requirements",
-                "slides": "..."
-            }
-        ]
+        "chapters": []
     },
     {
         "topic": "Interaction design in practice & Future directions",
         "chapters": [
             {
                 "title": "Chapter 13: Interaction Design in Practice",
-                "slides": "..."
+                "slides": "https://e6190eb1-a527-41a1-a569-e6e77f28d0af.usrfiles.com/ugd/7f09ad_1a7d1b159a8b4a9c81587504f4972fa0.pptx"
             }
         ]
     }
