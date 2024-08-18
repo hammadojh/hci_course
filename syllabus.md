@@ -15,11 +15,11 @@
 **Prerequisites:** Graduate Standing  
 **Location:** Main Campus  
 **Mode of Instruction:** 100% In-Class (Face-to-Face)  
-**Semester:** [Insert Semester and Year]  
+**Semester:** Fall, 2024 (241)  
 **Instructor:** Dr. Omar Hammad  
-**Office Location:** [Insert Office Location]  
-**Office Hours:** 3 hours per week (specific hours to be announced) and by appointment.  
-**Contact Information:** [Insert Email and Phone Number]
+**Office Location:** 22-329  
+**Office Hours:** by appointment.  
+**Contact Information:** omarjh@kfupm.edu.sa
 
 ---
 
@@ -114,13 +114,7 @@ Upon successful completion of the course, students will be able to:
 ---
 
 ### Office Hours and Communication
-In addition to lecture times, the instructor is available for 3 hours per week during office hours. Meetings can also be arranged by appointment. Email communication is encouraged for quick queries.
-
----
-
-### Course Evaluation
-- **Student Feedback:** Surveys conducted through Blackboard and DAD.
-- **Course Evaluation:** Evaluated by students, faculty, and program leaders through both direct and indirect methods.
+In addition to lecture times, the instructor is available for 2 hours per week during office hours. Meetings can also be arranged by appointment. Email communication is encouraged for quick queries.
 
 ---
 
