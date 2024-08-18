@@ -33,7 +33,7 @@ Recorded lectures and supplementary videos can be found in the `videos/` directo
 Key research papers and reading materials that are part of the course are stored in the `papers/` directory. These readings will deepen your understanding of the course topics and are often discussed in class.
 
 ## Companion Website
-The companion website for this course is available at [Insert Website URL]. It contains additional resources, discussion forums, and other interactive content to support your learning.
+The companion website for this course is available at (Soon..). It contains additional resources, discussion forums, and other interactive content to support your learning.
 
 ## How to Use This Repository
 - **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
