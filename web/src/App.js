@@ -12,13 +12,15 @@ function App() {
 
   return (
     <div className="App">
-      <h1>SWE 503: HCI Book Chapters Mapping to Lectures</h1>
+      <h1>SWE 503: HCI Course Plan</h1>
       <table>
         <thead>
           <tr>
             <th>#</th>
             <th>Topic</th>
             <th>Book Chapters</th>
+            <th>Research Papers</th>
+            <th>In-Class Activity</th>
           </tr>
         </thead>
         <tbody>
@@ -36,6 +38,8 @@ function App() {
                   ))}
                 </ul>
               </td>
+              <td></td>
+              <td></td>
             </tr>
           ))}
         </tbody>
