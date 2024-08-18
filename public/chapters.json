@@ -1,0 +1,117 @@
+[
+    {
+        "topic": "Introduction to the field of Human-Computer Interaction",
+        "chapters": [
+            {
+                "title": "Chapter 1: What is Interaction Design?",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Basics of Interaction design for all types of Human-interfaces",
+        "chapters": [
+            {
+                "title": "Chapter 2: The Process of Interaction Design",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Understanding Humans: Cognitive, Emotional, and Social Aspects",
+        "chapters": [
+            {
+                "title": "Chapter 4: Cognitive Aspects",
+                "slides": "..."
+            },
+            {
+                "title": "Chapter 5: Social Interaction",
+                "slides": "..."
+            },
+            {
+                "title": "Chapter 6: Emotional Interaction",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Interfaces: Graphical, Voice, VR/AR, Tangible, Wearables, and more.",
+        "chapters": [
+            {
+                "title": "Chapter 7: Interfaces",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Qualitative & Quantitative human data gathering methods",
+        "chapters": [
+            {
+                "title": "Chapter 8: Data Gathering",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Analyzing, interpreting and presenting human data",
+        "chapters": [
+            {
+                "title": "Chapter 9: Data Analysis, Interpretation, and Presentation",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Data at scale and visualization",
+        "chapters": [
+            {
+                "title": "Chapter 10: Data at Scale and Ethical Concerns",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Ideation and prototyping techniques",
+        "chapters": [
+            {
+                "title": "Chapter 12: Design, Prototyping, and Construction",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Evaluation methods (Heuristics, Usability testing, and Analytics)",
+        "chapters": [
+            {
+                "title": "Chapter 14: Introducing Evaluation",
+                "slides": "..."
+            },
+            {
+                "title": "Chapter 15: Evaluation Studies: From Controlled to Natural Settings",
+                "slides": "..."
+            },
+            {
+                "title": "Chapter 16: Evaluation: Inspections, Analytics, and Models",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "User interfaces high-fidelity design and development",
+        "chapters": [
+            {
+                "title": "Chapter 11: Discovering Requirements",
+                "slides": "..."
+            }
+        ]
+    },
+    {
+        "topic": "Interaction design in practice & Future directions",
+        "chapters": [
+            {
+                "title": "Chapter 13: Interaction Design in Practice",
+                "slides": "..."
+            }
+        ]
+    }
+]
