@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# SWE 595: Special Topics in Software Engineering - Human-Computer Interaction (HCI)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the official repository for **SWE 595: Special Topics in Software Engineering - Human-Computer Interaction (HCI)**. This repository contains all the resources you'll need to succeed in the course, including the syllabus, lecture slides, activities, videos, papers, and more.
 
-## Available Scripts
+## Table of Contents
+- [Course Overview](#course-overview)
+- [Syllabus](#syllabus)
+- [Lecture Slides](#lecture-slides)
+- [Activities](#activities)
+- [Videos](#videos)
+- [Papers](#papers)
+- [Companion Website](#companion-website)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Contributing](#contributing)
+- [License](#license)
 
-In the project directory, you can run:
+## Course Overview
+**SWE 595: Human-Computer Interaction** is a graduate-level course that introduces the fundamental concepts of Human-Computer Interaction (HCI). The course covers topics such as Human-Centered design, interface types, interaction design, and the latest advancements in the field.
 
-### `npm start`
+## Syllabus
+The full course syllabus, including learning objectives, course content, assessment methods, and required materials, is available [here](./Syllabus.md).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Lecture Slides
+Lecture slides for each week will be available in the `slides/` directory. These slides cover the key concepts discussed in class and are essential for your study and review.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Activities
+Course activities, including assignments, projects, and in-class exercises, are stored in the `activities/` directory. Please refer to the syllabus for deadlines and submission guidelines.
 
-### `npm test`
+## Videos
+Recorded lectures and supplementary videos can be found in the `videos/` directory. These videos are a great resource for revisiting lecture content or catching up on any missed classes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Papers
+Key research papers and reading materials that are part of the course are stored in the `papers/` directory. These readings will deepen your understanding of the course topics and are often discussed in class.
 
-### `npm run build`
+## Companion Website
+The companion website for this course is available at [Insert Website URL]. It contains additional resources, discussion forums, and other interactive content to support your learning.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How to Use This Repository
+- **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
+- **Navigate the Directories**: Explore the folders to access slides, activities, videos, and papers.
+- **Stay Updated**: Pull the latest changes regularly to ensure you have the most recent resources.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
+Contributions to this repository, such as additional resources, corrections, or improvements, are welcome. Please open a pull request or submit an issue to contribute.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+This repository is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the content within this repository in accordance with the license terms.
