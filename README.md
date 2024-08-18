@@ -18,7 +18,7 @@ Welcome to the official repository for **SWE 595: Special Topics in Software Eng
 **SWE 595: Human-Computer Interaction** is a graduate-level course that introduces the fundamental concepts of Human-Computer Interaction (HCI). The course covers topics such as Human-Centered design, interface types, interaction design, and the latest advancements in the field.
 
 ## Syllabus
-The full course syllabus, including learning objectives, course content, assessment methods, and required materials, is available [here](./Syllabus.md).
+The full course syllabus, including learning objectives, course content, assessment methods, and required materials, is available [here](./syllabus.md).
 
 ## Lecture Slides
 Lecture slides for each week will be available in the `slides/` directory. These slides cover the key concepts discussed in class and are essential for your study and review.
