@@ -1,4 +1,4 @@
-# HCI Research Guide
+# HCI Research Guide (Draft)
 
 This artcile helps beginners to start conducting reseach in the field of HCI. 
 
