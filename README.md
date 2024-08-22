@@ -11,7 +11,7 @@ Welcome to the official page for **SWE 595: Special Topics in Software Engineeri
 - [Papers](#papers)
 
 ## Course Overview
-**SWE 595: Human-Computer Interaction** is a graduate-level course that introduces the fundamental concepts of Human-Computer Interaction (HCI). The course covers topics such as Human-Centered design, interface types, interaction design, and the latest advancements in the field.
+**Human-Computer Interaction** is a graduate-level course that introduces the fundamental concepts of Human-Computer Interaction (HCI). The course covers topics such as Human-Centered design, interface types, interaction design, and the latest advancements in the field. 
 
 ## Syllabus
 The full course syllabus, including learning objectives, course content, assessment methods, and required materials, is available [here](./syllabus.md).
@@ -20,13 +20,10 @@ The full course syllabus, including learning objectives, course content, assessm
 Details are in the following document [here](./project.md)
 
 ## Assignments
-Coming soon ..
+Coming soon 🔜 ..
 
 ## Lecture Slides
-Lecture slides for each week will be available in the `slides/` directory. These slides cover the key concepts discussed in class and are essential for your study and review.
-
-## Papers
-Key research papers and reading materials that are part of the course are stored in the `papers/` directory. These readings will deepen your understanding of the course topics and are often discussed in class.
+We will be mainly following the slides of the course textbook. The slides can be found in the [companion website](https://www.id-book.com/) of the textbook. Modified lecture slides will be available in the `/slides` directory
 
 ## How to Use This Repository
 - **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
