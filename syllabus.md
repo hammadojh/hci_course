@@ -1,6 +1,6 @@
-### King Fahd University of Petroleum & Minerals
-### College of Computing and Mathematics  
-### Department of Information and Computer Science
+#### King Fahd University of Petroleum & Minerals
+#### College of Computing and Mathematics  
+#### Department of Information and Computer Science
 
 ---
 
