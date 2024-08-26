@@ -4,7 +4,7 @@
 
 ## Syllabus: SWE 595 - Special Topics in Software Engineering: Human-Computer Interaction (HCI)
 
-**Credit Hours:** 3
+**Credit Hours:** 3 ** 
 **Program:** MS Software Engineering  
 **Prerequisites:** Graduate Standing  
 **Location:** Main Campus (24-146)
