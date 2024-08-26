@@ -25,6 +25,10 @@ Coming soon 🔜 ..
 ## Lecture Slides
 We will be mainly following the slides of the course textbook. The slides can be found in the [companion website](https://www.id-book.com/) of the textbook. Modified lecture slides will be available in the `/slides` directory
 
+## Useful links
+- [SigCHI](https://sigchi.org/)
+- [CHI Proceedings 2024](https://dl.acm.org/doi/proceedings/10.1145/3613904)
+
 ## Papers
 Additional papers will be added as go under `/papers`
 
