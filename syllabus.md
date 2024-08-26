@@ -1,20 +1,20 @@
-#### King Fahd University of Petroleum & Minerals
-#### College of Computing and Mathematics  
-#### Department of Information and Computer Science
+King Fahd University of Petroleum & Minerals  
+College of Computing and Mathematics  
+Department of Information and Computer Science  
 
-## Syllabus: SWE 595 - Special Topics in Software Engineering: Human-Computer Interaction (HCI)
+## SWE 595 - Special Topics in Software Engineering: Human-Computer Interaction (HCI)
 
-**Credit Hours:** 3 ** 
+**Credit Hours:** 3  
 **Program:** MS Software Engineering  
 **Prerequisites:** Graduate Standing  
-**Location:** Main Campus (24-146)
-**Mode of Instruction:** 100% In-Class (Face-to-Face
+**Location:** Main Campus (24-146)  
+**Mode of Instruction:** 100% In-Class (Face-to-Face  
 **Semester:** Fall, 2024 (241)  
 
 ---
 
 ### Instructor 
-Dr. Omar Hammad  
+Omar Hammad  
 **Office Location:** 22-329  
 **Office Hours:** MW 12:30-1:30 or by appointment.  
 **Contact Information:** omarjh@kfupm.edu.sa
