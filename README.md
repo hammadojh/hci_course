@@ -28,6 +28,7 @@ We will be mainly following the slides of the course textbook. The slides can be
 ## Useful links
 - [SigCHI](https://sigchi.org/)
 - [CHI Proceedings 2024](https://dl.acm.org/doi/proceedings/10.1145/3613904)
+- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ## Papers
 Additional papers will be added as go under `/papers`
