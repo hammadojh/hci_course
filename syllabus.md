@@ -44,21 +44,23 @@ Upon successful completion of the course, students will be able to:
 3. **Values:**
    - Empathize with specific user groups to understand their needs.
 
-### Course Content and Schedule
+### Course Content and Schedule (Updated Sep 30th)
 
-| Week  | Topic                                                    | Contact Hours | Book Chapters     | Further Readings |
-|-------|----------------------------------------------------------|---------------|-------------------|------------------|
-| 1     | Introduction to Human-Computer Interaction               | 3             | 1                 | -                |
-| 2     | Basics of Interaction Design for All Types of Human-Interfaces | 3       | 2, 3              | -                |
-| 3-4   | Understanding Humans: Cognitive, Emotional, and Social Aspects | 6       | 4, 5, 6           | -                |
-| 5-6   | Interfaces: Graphical, Voice, VR/AR, Tangible, Wearables, and More | 6   | 7                 | -                |
-| 7     | Qualitative & Quantitative Human Data Gathering Methods  | 3             | 8                 | -                |
-| 8     | Analyzing, Interpreting, and Presenting Human Data       | 3             | 9                 | -                |
-| 9     | Data at Scale and Visualization                          | 3             | 10                | -                |
-| 10-11 | Ideation and Prototyping Techniques                      | 6             | 11, 12            | -                |
-| 12    | Evaluation Methods (Heuristics, Usability Testing, and Analytics) | 3    | 14, 15, 16        | -                |
-| 13-14 | User Interfaces: High-Fidelity Design and Development    | 6             | N/A               | -                |
-| 15    | Interaction Design in Practice & Future Directions       | 3             | 13                | -                |
+| Week | Topic                                                                              | Contact Hours | Book Chapters  |
+|------|------------------------------------------------------------------------------------|---------------|----------------|
+| 1    | Introduction to Human-Computer Interaction                                         | 3             | 1              |
+| 2    | Basics of Interaction Design for All Types of Human-Interfaces                     | 3             | 2, 3           |
+| 3,4  | Understanding Humans: Cognitive Aspects                                            | 3             | 4              |
+| 5,6  | Emotional Aspects                                                                  | 3             | 5              |
+| 7    | Social Aspects                                                                     | 3             | 6              |
+| 8    | Interfaces: Graphical, Voice, VR/AR, Tangible, Wearables, and More                 | 6             | 7              |
+| 9    | Qualitative & Quantitative Human Data Gathering Methods                            | 3             | 8              |
+| 10   | Analyzing, Interpreting, and Presenting Human Data                                 | 3             | 9              |
+| 11   | Data at Scale and Visualization                                                    | 3             | 10             |
+| 12   | Ideation and Prototyping Techniques                                                | 6             | 11, 12         |
+| 13   | Interaction Design in Practice                                                     | 3             | 13             |
+| 14   | Evaluation Methods (Heuristics, Usability Testing)                                 | 3             | 14, 15         |
+| 15   | Analytics                                                                          | 3             | 16             |
 
 More Detailed breakdown can be found here in this [sheet](https://kfupmedusa-my.sharepoint.com/:x:/g/personal/omarjh_kfupm_edu_sa/EQExW0oB-kZBkdoK3qKXinMB0A-m-bzlzIKXam_EjKVvcA?e=tF0HQ3)
 
