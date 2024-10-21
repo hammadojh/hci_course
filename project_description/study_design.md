@@ -14,14 +14,17 @@ The objectives of this phase are:
 2. **Design Your Study:**
 
    - **Type of Study:**\* Select the methodological approach that best addresses your research question. Common study types in HCI research include:\*
-     - **Usability Testing:**\* Evaluates user performance with an interface, focusing on task efficiency and effectiveness, typically through observational methods.\*
-     - **Surveys:**\* Gathers quantitative or qualitative data through structured questionnaires aimed at understanding user experiences or opinions.\*
-     - **Controlled Experiments:**\* Involves the manipulation of one or more independent variables to assess their impact on dependent variables, generally conducted in a controlled lab setting to ensure internal validity.\*
-     - **Observational Studies:**\* Involves passive observation of users in their natural environment, providing insights into authentic user behaviors and contextual interactions.\*
-     - **Field Studies:**\* Conducted in users' natural settings to understand the practical use and implications of technology in real-world contexts.\*
-     - **Interviews and Focus Groups:**\* Collects in-depth qualitative data through structured or semi-structured discussions, providing rich insights into user perspectives and experiences.\*
-     - **A/B Testing:**\* Compares two versions of a product or feature by measuring performance metrics to determine which version yields superior outcomes.\*
-     - **Mixed Methods:**\* Integrates both qualitative and quantitative data collection and analysis techniques to provide a more comprehensive understanding of the research problem.\*
+     | Study Type | Description |
+     |------------|-------------|
+     | Usability Testing | Evaluates user performance with an interface, focusing on task efficiency and effectiveness, typically through observational methods. |
+     | Surveys | Gathers quantitative or qualitative data through structured questionnaires aimed at understanding user experiences or opinions. |
+     | Controlled Experiments | Involves the manipulation of one or more independent variables to assess their impact on dependent variables, generally conducted in a controlled lab setting to ensure internal validity. |
+     | Observational Studies | Involves passive observation of users in their natural environment, providing insights into authentic user behaviors and contextual interactions. |
+     | Field Studies | Conducted in users' natural settings to understand the practical use and implications of technology in real-world contexts. |
+     | Interviews and Focus Groups | Collects in-depth qualitative data through structured or semi-structured discussions, providing rich insights into user perspectives and experiences. |
+     | A/B Testing | Compares two versions of a product or feature by measuring performance metrics to determine which version yields superior outcomes. |
+     | Mixed Methods | Integrates both qualitative and quantitative data collection and analysis techniques to provide a more comprehensive understanding of the research problem. |
+     
    - **Participants:**\* Define the characteristics of the participants, including the target population, recruitment strategies, and sample size considerations. Ensure that participant demographics are relevant to the research questions.\*
    - **Procedure:**\* Develop a detailed, step-by-step protocol for conducting the study, which should include:\*
      - **Participant Introduction:**\* Welcome participants, explain the study's objectives, describe tasks, outline expected duration, and obtain informed consent, ensuring participants fully understand their rights and the scope of the study.\*
