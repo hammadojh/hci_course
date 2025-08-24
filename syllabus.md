@@ -2,13 +2,13 @@ King Fahd University of Petroleum & Minerals
 College of Computing and Mathematics  
 Department of Information and Computer Science  
 
-## SWE 595 - Special Topics in Software Engineering: Human-Computer Interaction (HCI)
+## SWE 503 - Human Computer Interaction
 
 **Credit Hours:** 3  
 **Program:** MS Software Engineering  
 **Prerequisites:** Graduate Standing  
-**Location:** Main Campus (24-146)  
-**Mode of Instruction:** 100% In-Class (Face-to-Face  
+**Location:** Main Campus (22-120)  
+**Mode of Instruction:** HIVE 
 **Semester:** Fall, 2024 (241)  
 
 ---
@@ -31,17 +31,14 @@ This course provides an introduction to Human-Computer Interaction (HCI), explor
 ### Student Learning Outcomes (CLOs)
 Upon successful completion of the course, students will be able to:
 
-1. **Knowledge and Understanding:**
    - Explain basic concepts in HCI and its relationship to other fields.
    - Describe various methods for analyzing, designing, programming, and testing interactive systems from a human perspective.
    - Discuss future directions in the field of HCI.
    
-2. **Skills:**
    - Conduct primary research with human subjects.
    - Evaluate existing software systems from a human perspective.
    - Design software systems using the Human-Centered process.
 
-3. **Values:**
    - Empathize with specific user groups to understand their needs.
 
 ### Course Content and Schedule (Updated Sep 30th)
@@ -68,11 +65,12 @@ More Detailed breakdown can be found here in this [sheet](https://kfupmedusa-my.
 
 | Assessment Task    | Weight (%) | description |
 |--------------------|------------|--------------|
-| Participations     | 10%        | Reading the material before class + attendace |
-| Paper Presentation | 10%        | Each student will summarize and present a paper |
-| Assignments        | 20%        | 5 Practicial assignments applying the UCD process | 
+| Participations     | 5%         | Reading the material before class |
+| Quizes             | 10%        | In-class quizes to test understanding of concpets  |
+| Assignments        | 15%        | 3 Practicial assignments applying the UCD process | 
 | Midterm Exam       | 20%        | Testing the theoretical part of the course |
-| Term Project       | 40%        | [Details..](https://github.com/hammadojh/hci_course/new/main) |
+| Term Project       | 25%        | Exploring a topic in HCI [Details..](/project.md) |
+| Final Exam         | 25%        | Testing the theoretical part of the course |
 
 ### Learning Resources
 
@@ -90,7 +88,6 @@ More Detailed breakdown can be found here in this [sheet](https://kfupmedusa-my.
 
 **Prepared by:** Dr. Omar Hammad  
 **Date:** 13 May 2024  
-**Signature:** ____OH____
 
 ---
 

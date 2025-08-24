@@ -1,6 +1,6 @@
-# SWE 595: Special Topics in Software Engineering - Human-Computer Interaction (HCI)
+# SWE 503: Human-Computer Interaction (HCI)
 
-Welcome to the official page for **SWE 595: Special Topics in Software Engineering - Human-Computer Interaction (HCI)**. This repository contains all the resources you'll need to succeed in the course, including the syllabus, lecture slides, activities, videos, papers, and more.
+Welcome to the official page for **SWE 503: Human-Computer Interaction (HCI)**. This repository contains all the resources you'll need to succeed in the course, including the syllabus, lecture slides, activities, videos, papers, and more.
 
 ## Table of Contents
 - [Course Overview](#course-overview)
