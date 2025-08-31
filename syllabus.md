@@ -46,7 +46,7 @@ Upon successful completion of the course, students will be able to:
 | Week | Topic                                                                              | Contact Hours | Book Chapters  |
 |------|------------------------------------------------------------------------------------|---------------|----------------|
 | 1    | Introduction to Human-Computer Interaction                                         | 3             | 1              |
-| 2    | Basics of Interaction Design for All Types of Human-Interfaces                     | 3             | 2              |
+| 2    | The process of interaction design                                                  | 3             | 2              |
 | 3,4  | Understanding Humans: Cognitive Aspects                                            | 3             | 4              |
 | 5,6  | Emotional Aspects                                                                  | 3             | 5              |
 | 7    | Social Aspects                                                                     | 3             | 6              |
