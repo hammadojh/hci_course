@@ -1,7 +1,7 @@
 # SWE 595: Project (Term paper) description.
 
 ## Objective
-The primary objective of this project is to engage students in an in-depth exploration of a specific topic within the field of Human-Computer Interaction (HCI). Students will select a topic of interest, conduct comprehensive research, and contribute original insights to the academic discourse in HCI.
+The primary objective of this project is to engage students in an in-depth exploration of a specific topic within the field of Human-Computer Interaction (HCI). Each student will select a topic of interest, conduct comprehensive research, and contribute original insights to the academic discourse in HCI.
 
 ## Project Scope
 Each student will choose a topic related to current trends, challenges, or innovations in HCI. Possible areas include, but are not limited to:
@@ -31,7 +31,7 @@ Students are expected to:
 
 | Week | Activity                                     | Deliverable (BB)                       |
 |------|----------------------------------------------|-----------------------------------------|
-| 1    | Team formation + Topics Exploration          | Groups                                  |
+| 1    | Topic Exploration                            | Individual Topic Selection              |
 | 2    | Topic Selection + Literature review          | Topic                                   |
 | 3    | Literature review                            |                                         |
 | 4    | Literature review                            | Literature Review                       |
@@ -54,6 +54,7 @@ Students are expected to:
 - Quality of analysis and interpretation of results
 - Clarity, coherence, and scholarly presentation of the final paper
 - Effectiveness of the oral presentation and ability to engage with feedback
+- Individual contribution and independent research skills
 
 ## HCI Research guide
 This guide will help you kick-start your project [HCI Research Guide](https://github.com/hammadojh/hci_course/blob/main/hic_research_guide.md)
