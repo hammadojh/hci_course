@@ -154,7 +154,6 @@ Working on the right problem
 - Problem Statement
 - User Personas
 - User Journey Maps
-- Insight Statements
 - Design Criteria
 
 
