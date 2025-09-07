@@ -52,50 +52,25 @@ Today's delighter:
 
 -->
 
-SWE 503 | Lec 4 | Sep 2, 2025
-# The Interaction Design Process (Part 2)
+SWE 503 | Lec 5 | Sep 7, 2025
+# The Interaction Design Process (Part 3)
 Dr. Omar Hammad
 
 ---
 
 <!-- _class: left -->
 
-# Revision of the last lecture:
-- What is a good design?
-- what would help us having a good design?
-- What are the core principles of the People-Centered Approach?
-- what does "Early focus on users and tasks" mean?
-- What are the major activities in a design process?
+# In today's lecture:
+- Discuss project process & ideas
+- Practicing The Double Diamond Process
 
 ---
 
 <!-- _class: left -->
 
-# In today's lecture:
-- The Double Diamon Process 
-- The Discover phase
-- The Define phase
-- The Develop phase
-- The Deliver phase
-
----
-
-<!-- _class: left boxes -->
-
-# Basic activities of HCI
-
-- Discover Requirements 
-- Design Alternatives 
-- Prototyping  
-- Evaluating 
-
----
-
-<!-- _class: light -->
-
-# The simple process of Interaction Design
-
-![img](../img/simple.png)
+# Revision of the last lecture:
+- Why do we need a design process..?
+- What is the Double Diamond Process..
 
 ---
 
@@ -168,8 +143,6 @@ Working on the right problem
 - In What context they are using the product? 
 - What are some existing solutions?
 - ... 
-
-
 
 ---
 

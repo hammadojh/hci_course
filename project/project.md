@@ -19,7 +19,7 @@ Each student will choose a topic related to current trends, challenges, or innov
 
 You can explore more topics by browsing conferences listed under the [SigCHI](https://sigchi.org/) website. 
 
-## Research Expectations
+## Expectations
 Students are expected to:
 
 1. Identify a specific research question or problem within their chosen topic.
@@ -29,23 +29,22 @@ Students are expected to:
 5. Compile their findings into a well-structured research paper, adhering to academic standards of writing and referencing.
 6. Present their research findings to the class in a formal presentation, followed by a Q&A session to foster discussion and feedback.
 
-| Week | Activity                                     | Deliverable (BB)                       |
+
+| Week | Activity                                     | Deliverable (BB)                        |
 |------|----------------------------------------------|-----------------------------------------|
-| 1    | Topic Exploration                            | Individual Topic Selection              |
-| 2    | Topic Selection + Literature review          | Topic                                   |
-| 3    | Literature review                            |                                         |
-| 4    | Literature review                            | Literature Review                       |
-| 5    | Proposal Development                         |                                         |
-| 6    | Proposal Development                         | Proposal                                |
-| 7    | Conduct Study                                |                                         |
+| 3    | Topic Selection & Literature Review          | 1.Topic Selection                       |
+| 4    | Literature Review                            |                                         |
+| 5    | Literature Review                            | 2.Literature Review                     |
+| 6    | Proposal Development                         |                                         |
+| 7    | Proposal Development                         | 3.Proposal                              |
 | 8    | Conduct Study                                |                                         |
-| 9    | Conduct Study                                | Progress Report                         |
+| 9    | Conduct Study                                |                                         |
 | 10   | Conduct Study                                |                                         |
-| 11   | Conduct Study                                |                                         |
+| 11   | Conduct Study                                | 4. Study Report                         |
 | 12   | Write Results                                |                                         |
-| 13   | Write Results                                | First Draft                             |
+| 13   | Write Results                                | 5. First Draft                          |
 | 14   | Presentation                                 |                                         |
-| 15   | Presentation                                 | Presentation                            |
+| 15   | Presentation                                 | 6. Presentation                         |
 
 ## Assessment Criteria
 - Clarity and relevance of the research question
@@ -56,5 +55,8 @@ Students are expected to:
 - Effectiveness of the oral presentation and ability to engage with feedback
 - Individual contribution and independent research skills
 
-## HCI Research guide
-This guide will help you kick-start your project [HCI Research Guide](https://github.com/hammadojh/hci_course/blob/main/hic_research_guide.md)
+# Project Ideas
+[Project Ideas](./project_ideas.md)
+
+# Topic Selection Worksheet
+[Worksheet](./worksheet.md)
