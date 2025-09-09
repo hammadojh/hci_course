@@ -30,21 +30,21 @@ Students are expected to:
 6. Present their research findings to the class in a formal presentation, followed by a Q&A session to foster discussion and feedback.
 
 
-| Week | Activity                                     | Deliverable (BB)                        |
-|------|----------------------------------------------|-----------------------------------------|
-| 3    | Topic Selection & Literature Review          | 1.Topic Selection                       |
+| Week | Activity                                     | Deliverable (BB)                        | Weight |
+|------|----------------------------------------------|-----------------------------------------|--------
+| 3    | Topic Selection & Literature Review          | 1.Topic Selection                       | 5%
 | 4    | Literature Review                            |                                         |
-| 5    | Literature Review                            | 2.Literature Review                     |
+| 5    | Literature Review                            | 2.Literature Review                     | 20%
 | 6    | Proposal Development                         |                                         |
-| 7    | Proposal Development                         | 3.Proposal                              |
+| 7    | Proposal Development                         | 3.Proposal                              | 15%
 | 8    | Conduct Study                                |                                         |
 | 9    | Conduct Study                                |                                         |
 | 10   | Conduct Study                                |                                         |
-| 11   | Conduct Study                                | 4. Study Report                         |
+| 11   | Conduct Study                                | 4. Study Report                         | 20%
 | 12   | Write Results                                |                                         |
-| 13   | Write Results                                | 5. First Draft                          |
+| 13   | Write Results                                | 5. First Draft                          | 30%
 | 14   | Presentation                                 |                                         |
-| 15   | Presentation                                 | 6. Presentation                         |
+| 15   | Presentation                                 | 6. Presentation                         | 10%
 
 ## Assessment Criteria
 - Clarity and relevance of the research question
