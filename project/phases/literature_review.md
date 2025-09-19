@@ -129,17 +129,17 @@ Your literature review should be **1-2 pages maximum** and include:
 
 > **💡 Tip for Beginners**: We've designed this to be manageable! You only need 8-12 papers and 1-2 pages total. Quality over quantity - it's better to deeply understand fewer papers than to skim many superficially.
 
-### 1. Introduction (0.25 page)
+### 1. Introduction
 - Your research area and why it's important
 - Your specific research question
 
-### 2. Proxy Paper (0.5 page)
+### 2. Proxy Paper
 - Identify **one key paper** that is most similar to your planned research
 - Describe what they studied, how they studied it, and what they found
 - Explain how your work will differ from or extend this study
 - This will serve as your methodological foundation
 
-### 3. Thematic Summary (0.5-0.75 page)
+### 3. Thematic Summary
 Organize remaining papers by **1-2 key themes**. For example:
 
 **For a project on "Dark Mode vs Light Mode":**
@@ -151,7 +151,7 @@ Organize remaining papers by **1-2 key themes**. For example:
 - Note key methodological approaches
 - Highlight main findings and contradictions
 
-### 4. Research Gap (0.25 page)
+### 4. Research Gap
 - What specific gap does your study address?
 - How does it build on your proxy paper?
 - Why is this gap important to fill?
