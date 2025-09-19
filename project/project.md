@@ -1,4 +1,4 @@
-# SWE 595: Project (Term paper) description.
+# SWE 503: Project (Term paper) description.
 
 ## Objective
 The primary objective of this project is to engage students in an in-depth exploration of a specific topic within the field of Human-Computer Interaction (HCI). Each student will select a topic of interest, conduct comprehensive research, and contribute original insights to the academic discourse in HCI.
