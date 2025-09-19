@@ -2,13 +2,13 @@ King Fahd University of Petroleum & Minerals
 College of Computing and Mathematics  
 Department of Information and Computer Science  
 
-## SWE 595 - Special Topics in Software Engineering: Human-Computer Interaction (HCI)
+## SWE 503 - Human Computer Interaction
 
 **Credit Hours:** 3  
 **Program:** MS Software Engineering  
 **Prerequisites:** Graduate Standing  
-**Location:** Main Campus (24-146)  
-**Mode of Instruction:** 100% In-Class (Face-to-Face  
+**Location:** Main Campus (22-120)  
+**Mode of Instruction:** HIVE 
 **Semester:** Fall, 2024 (241)  
 
 ---
@@ -31,34 +31,36 @@ This course provides an introduction to Human-Computer Interaction (HCI), explor
 ### Student Learning Outcomes (CLOs)
 Upon successful completion of the course, students will be able to:
 
-1. **Knowledge and Understanding:**
    - Explain basic concepts in HCI and its relationship to other fields.
    - Describe various methods for analyzing, designing, programming, and testing interactive systems from a human perspective.
    - Discuss future directions in the field of HCI.
    
-2. **Skills:**
    - Conduct primary research with human subjects.
    - Evaluate existing software systems from a human perspective.
    - Design software systems using the Human-Centered process.
 
-3. **Values:**
    - Empathize with specific user groups to understand their needs.
 
-### Course Content and Schedule
+### Course Content and Schedule (Updated Sep 30th)
 
-| Week  | Topic                                                    | Contact Hours | Book Chapters     | Further Readings |
-|-------|----------------------------------------------------------|---------------|-------------------|------------------|
-| 1     | Introduction to Human-Computer Interaction               | 3             | 1                 | -                |
-| 2     | Basics of Interaction Design for All Types of Human-Interfaces | 3       | 2, 3              | -                |
-| 3-4   | Understanding Humans: Cognitive, Emotional, and Social Aspects | 6       | 4, 5, 6           | -                |
-| 5-6   | Interfaces: Graphical, Voice, VR/AR, Tangible, Wearables, and More | 6   | 7                 | -                |
-| 7     | Qualitative & Quantitative Human Data Gathering Methods  | 3             | 8                 | -                |
-| 8     | Analyzing, Interpreting, and Presenting Human Data       | 3             | 9                 | -                |
-| 9     | Data at Scale and Visualization                          | 3             | 10                | -                |
-| 10-11 | Ideation and Prototyping Techniques                      | 6             | 11, 12            | -                |
-| 12    | Evaluation Methods (Heuristics, Usability Testing, and Analytics) | 3    | 14, 15, 16        | -                |
-| 13-14 | User Interfaces: High-Fidelity Design and Development    | 6             | N/A               | -                |
-| 15    | Interaction Design in Practice & Future Directions       | 3             | 13                | -                |
+| Week | Topic                                                                              | Contact Hours | Book Chapters  |
+|------|------------------------------------------------------------------------------------|---------------|----------------|
+| 1    | Introduction to Human-Computer Interaction                                         | 3             | 1              |
+| 2    | The process of interaction design                                                  | 3             | 2              |
+| 3    | Understanding Humans: Cognitive Aspects                                            | 3             | 4              |
+| 4*   | Emotional Aspects                                                                  | 3             | 5              |
+| 5    | Social Aspects                                                                     | 3             | 6              |
+| 6    | Interfaces: Graphical, Voice, VR/AR, Tangible, Wearables, and More                 | 6             | 7              |
+| 7    | Qualitative & Quantitative Human Data Gathering Methods                            | 3             | 8              |
+| 8*   | Midterm Exam                                                                       | 3             | 9              |
+| 9    | Analyzing, Interpreting, and Presenting Human Data                                 | -             | -              |
+| 10   | Data at Scale and Visualization                                                    | 3             | 10             |
+| 11   | Ideation and Prototyping Techniques                                                | 6             | 11, 12         |
+| 12*  | Interaction Design in Practice                                                     | 3             | 13             |
+| 13   | Evaluation Methods (Heuristics, Usability Testing)                                 | 3             | 14, 15         |
+| 14   | Analytics                                                                          | 3             | 16             |
+| 15   | Presentations                                                                      | -             | -              |
+| 16   | Final Exam                                                                         | 3             | 16             |
 
 More Detailed breakdown can be found here in this [sheet](https://kfupmedusa-my.sharepoint.com/:x:/g/personal/omarjh_kfupm_edu_sa/EQExW0oB-kZBkdoK3qKXinMB0A-m-bzlzIKXam_EjKVvcA?e=tF0HQ3)
 
@@ -66,11 +68,12 @@ More Detailed breakdown can be found here in this [sheet](https://kfupmedusa-my.
 
 | Assessment Task    | Weight (%) | description |
 |--------------------|------------|--------------|
-| Participations     | 10%        | Reading the material before class + attendace |
-| Paper Presentation | 10%        | Each student will summarize and present a paper |
-| Assignments        | 20%        | 5 Practicial assignments applying the UCD process | 
+| Participations     | 5%         | Reading the material before class |
+| Quizes             | 10%        | In-class quizes to test understanding of concpets  |
+| Assignments        | 15%        | 3 Practicial assignments applying the UCD process | 
 | Midterm Exam       | 20%        | Testing the theoretical part of the course |
-| Term Project       | 40%        | [Details..](https://github.com/hammadojh/hci_course/new/main) |
+| Term Project       | 25%        | Exploring a topic in HCI [Details..](/project.md) |
+| Final Exam         | 25%        | Testing the theoretical part of the course |
 
 ### Learning Resources
 
@@ -88,7 +91,6 @@ More Detailed breakdown can be found here in this [sheet](https://kfupmedusa-my.
 
 **Prepared by:** Dr. Omar Hammad  
 **Date:** 13 May 2024  
-**Signature:** ____OH____
 
 ---
 

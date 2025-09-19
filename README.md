@@ -1,6 +1,6 @@
-# SWE 595: Special Topics in Software Engineering - Human-Computer Interaction (HCI)
+# SWE 503: Human-Computer Interaction (HCI)
 
-Welcome to the official page for **SWE 595: Special Topics in Software Engineering - Human-Computer Interaction (HCI)**. This repository contains all the resources you'll need to succeed in the course, including the syllabus, lecture slides, activities, videos, papers, and more.
+Welcome to the official page for **SWE 503: Human-Computer Interaction (HCI)**. This repository contains all the resources you'll need to succeed in the course, including the syllabus, lecture slides, activities, videos, papers, and more.
 
 ## Table of Contents
 - [Course Overview](#course-overview)
@@ -23,11 +23,12 @@ Details are in the following document [here](./project.md)
 Coming soon 🔜 ..
 
 ## Lecture Slides
-We will be mainly following the slides of the course textbook. The slides can be found in the [companion website](https://www.id-book.com/) of the textbook. Modified lecture slides will be available in the `/slides` directory
+We will be mainly following the slides of the course textbook. The slides can be found in the [companion website](https://id-book.pages.dev/) of the textbook. Modified lecture slides will be available in the `/slides` directory
 
 ## Useful links
 - [SigCHI](https://sigchi.org/)
 - [CHI Proceedings 2024](https://dl.acm.org/doi/proceedings/10.1145/3613904)
+- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ## Papers
 Additional papers will be added as go under `/papers`
