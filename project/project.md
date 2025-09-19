@@ -34,17 +34,18 @@ Students are expected to:
 |------|----------------------------------------------|-----------------------------------------|--------
 | 3    | Topic Selection & Literature Review          | 1.Topic Selection                       | 5%
 | 4    | Literature Review                            |                                         |
-| 5    | Literature Review                            | 2.Literature Review                     | 20%
-| 6    | Proposal Development                         |                                         |
-| 7    | Proposal Development                         | 3.Proposal                              | 15%
-| 8    | Conduct Study                                |                                         |
+| 5    | Literature Review                            |                                         | 
+| 6    | Literature Review                            | 2.Literature Review                     | 20%
+| 7    | Proposal Development                         |                                         |
+| 8    | Proposal Development                         | 3.Proposal                              | 15%
 | 9    | Conduct Study                                |                                         |
 | 10   | Conduct Study                                |                                         |
-| 11   | Conduct Study                                | 4. Study Report                         | 20%
-| 12   | Write Results                                |                                         |
-| 13   | Write Results                                | 5. First Draft                          | 30%
-| 14   | Presentation                                 |                                         |
-| 15   | Presentation                                 | 6. Presentation                         | 10%
+| 11   | Conduct Study                                |                                         |
+| 12   | Conduct Study                                | 4. Study Report                         | 20%
+| 13   | Write Results                                |                                         |
+| 14   | Write Results                                | 5. First Draft                          | 30%
+| 15   | Presentation                                 |                                         |
+| 16   | Presentation                                 | 6. Presentation                         | 10%
 
 ## Assessment Criteria
 - Clarity and relevance of the research question
