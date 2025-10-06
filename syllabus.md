@@ -52,8 +52,8 @@ Upon successful completion of the course, students will be able to:
 | 5    | Social Aspects                                                                     | 3             | 6              |                    |                       |
 | 6    | Interfaces: Graphical, Voice, VR/AR, Tangible, Wearables, and More                 | 6             | 7              | Literature Review  |                       |
 | 7    | Qualitative & Quantitative Human Data Gathering Methods                            | 3             | 8              |                    | 1: Discovery          |
-| 8*   | Midterm Exam                                                                       | 3             | 9              | Proposal           |                       |
-| 9    | Analyzing, Interpreting, and Presenting Human Data                                 | -             | -              |                    |                       |
+| 8*   | Midterm Exam                                                                       | 3             | 9              |                    |                       |
+| 9    | Analyzing, Interpreting, and Presenting Human Data                                 | -             | -              |    Proposal        |                       |
 | 10   | Data at Scale and Visualization                                                    | 3             | 10             |                    | 2: Analysis & Synthesis |
 | 11   | Ideation and Prototyping Techniques                                                | 6             | 11, 12         |                    |                       |
 | 12*  | Interaction Design in Practice                                                     | 3             | 13             | Study Report       |                       |
