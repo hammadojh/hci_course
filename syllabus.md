@@ -48,15 +48,15 @@ Upon successful completion of the course, students will be able to:
 | 1    | Introduction to Human-Computer Interaction                                         | 3             | 1              |                    |                       |
 | 2    | The process of interaction design                                                  | 3             | 2              |                    |                       |
 | 3    | Understanding Humans: Cognitive Aspects                                            | 3             | 4              | Topic Selection    |                       |
-| 4*   | Emotional Aspects                                                                  | 3             | 5              |                    |                       |
-| 5    | Social Aspects                                                                     | 3             | 6              |                    |                       |
-| 6    | Interfaces: Graphical, Voice, VR/AR, Tangible, Wearables, and More                 | 6             | 7              | Literature Review  |                       |
+| 4*   | Quiz + Hands On                                                                    | 3             | -              |                    |                       |
+| 5    | Emoitonal Aspects                                                                  | 3             | 6              |                    |                       |
+| 6    | Social Aspects                                                                     | 6             | 5              | Literature Review  |                       |
 | 7    | Qualitative & Quantitative Human Data Gathering Methods                            | 3             | 8              |                    | 1: Discovery          |
-| 8*   | Midterm Exam                                                                       | 3             | 9              |                    |                       |
-| 9    | Analyzing, Interpreting, and Presenting Human Data                                 | -             | -              |    Proposal        |                       |
+| 8*   | Midterm Exam + Analyzing Human Data                                                | 3             | 9              |                    |                       |
+| 9    | Discovering Requirements                                                           | -             | 11             |    Proposal        |                       |
 | 10   | Data at Scale and Visualization                                                    | 3             | 10             |                    | 2: Analysis & Synthesis |
-| 11   | Ideation and Prototyping Techniques                                                | 6             | 11, 12         |                    |                       |
-| 12*  | Interaction Design in Practice                                                     | 3             | 13             | Study Report       |                       |
+| 11   | Interfaces + Ideation and Prototyping Techniques                                   | 6             | 7, 12          |                    |                       |
+| 12*  | Quiz + Interaction Design in Practice                                              | 3             | 13             | Study Report       |                       |
 | 13   | Evaluation Methods (Heuristics, Usability Testing)                                 | 3             | 14, 15         |                    | 3: Ideation & Prototyping |
 | 14   | Analytics                                                                          | 3             | 16             | First Draft        |                       |
 | 15   | Presentations                                                                      | -             | -              |                    | 4: Evaluation & Validation |
