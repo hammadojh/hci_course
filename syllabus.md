@@ -68,12 +68,12 @@ More Detailed breakdown can be found here in this [sheet](https://kfupmedusa-my.
 
 | Assessment Task    | Weight (%) | description |
 |--------------------|------------|--------------|
-| Participations     | 5%         | Reading the material before class |
+| Participations     | 5%         | Reading the material before class                  |
 | Quizes             | 10%        | In-class quizes to test understanding of concpets  |
-| Assignments        | 15%        | 3 Practicial assignments applying the UCD process | 
-| Midterm Exam       | 20%        | Testing the theoretical part of the course |
-| Term Project       | 25%        | Exploring a topic in HCI [Details..](/project.md) |
-| Final Exam         | 25%        | Testing the theoretical part of the course |
+| Assignments        | 15%        | 3 Practicial assignments applying the UCD process  | 
+| Midterm Exam       | 20%        | Testing the theoretical part of the course         |
+| Term Project       | 25%        | Exploring a topic in HCI [Details..](/project.md)  |
+| Final Exam         | 25%        | Testing the theoretical part of the course         |
 
 ### Learning Resources
 

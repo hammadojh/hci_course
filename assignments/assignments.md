@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These four assignments guide you through a complete design process with one selected digital product. Each assignment builds on the previous work: Assignment 1 gathers user research, Assignment 2 analyzes data and defines problems, Assignment 3 creates solutions, and Assignment 4 tests your improvements against the original product.
+These three assignments guide you through a complete design process with one selected digital product. Each assignment builds on the previous work: Assignment 1 gathers user research, Assignment 2 analyzes data and defines problems, and Assignment 3-4 creates solutions and tests your improvements against the original product.
 
 ## Assignment Weights & Timeline
 
@@ -10,8 +10,7 @@ These four assignments guide you through a complete design process with one sele
 |------------|---------|----------|
 | **1:** Discovery | 2 pts | Week 7 |
 | **2:** Analysis & Synthesis | 3 pts | Week 10 |
-| **3:** Ideation & Prototyping | 5 pts | Week 13 |
-| **4:** Evaluation & Validation | 5 pts | Week 15 |
+| **3-4:** Ideation, Prototyping & Evaluation | 10 pts | Week 15 |
 
 ## Assignment Summaries
 
@@ -35,24 +34,18 @@ These four assignments guide you through a complete design process with one sele
 
 [→ Show details...](assignment_2.md)
 
-### 3: Ideation & Prototyping
-**Generate solutions and create prototypes**
+### 3: Ideation, Prototyping & Evaluation
+**Generate solutions, create prototypes, and validate through testing**
 - 3 "How Might We" questions
-- 60 solution ideas (20 per problem)
+- 30 solution ideas (10 per problem)
 - Prioritization methodology
-- 2 conceptual models + 2 prototypes
-- **Submit:** All ideation work + prototypes + assumptions
-
-[→ Show details...](assignment_3.md)
-
-### 4: Evaluation & Validation
-**Test prototypes against original product**
-- 3 metrics + evaluation methods
+- 2 prototypes with documented assumptions
+- 2 metrics + evaluation methods
 - User studies with 3 participants
 - Randomized comparison testing
-- **Submit:** Final presentation combining all phases
+- **Submit:** All ideation work + prototypes + testing results + analysis
 
-[→ Show details...](assignment_4.md)
+[→ Show details...](assignment_3.md)
 
 ## Key Requirements
 
