@@ -32,20 +32,11 @@ Students are expected to:
 
 | Week | Activity                                     | Deliverable (BB)                        | Weight |
 |------|----------------------------------------------|-----------------------------------------|--------
-| 3    | Topic Selection & Literature Review          | 1.Topic Selection                       | 5%
-| 4    | Literature Review                            |                                         |
-| 5    | Literature Review                            |                                         | 
-| 6    | Literature Review                            | 2.Literature Review                     | 20%
-| 7    | Proposal Development                         |                                         |
-| 8    | Proposal Development                         | 3.Proposal                              | 15%
-| 9    | Conduct Study                                |                                         |
-| 10   | Conduct Study                                |                                         |
-| 11   | Conduct Study                                |                                         |
-| 12   | Conduct Study                                | 4. Study Report                         | 20%
-| 13   | Write Results                                |                                         |
-| 14   | Write Results                                | 5. First Draft                          | 30%
-| 15   | Presentation                                 |                                         |
-| 16   | Presentation                                 | 6. Presentation                         | 10%
+| 4-6  | Literature Review                            | 1. Literature Review                    | 25%
+| 7-9  | Proposal Development                         | 2. Proposal & Study Design              | 20%
+| 9-12 | Conduct Study & Analysis                     | 3. Study Report & Analysis              | 25%
+| 13-14| Discussion & Integration                     | 4. First Draft (Complete Paper)         | 20%
+| 15-16| Presentation                                 | 5. Final Presentation                   | 10%
 
 ## Assessment Criteria
 - Clarity and relevance of the research question
@@ -56,8 +47,29 @@ Students are expected to:
 - Effectiveness of the oral presentation and ability to engage with feedback
 - Individual contribution and independent research skills
 
-# Project Ideas
+# Project Phase Guides
+
+## Phase 1: Literature Review (Weeks 4-6)
+[Literature Review Guide](./phases/lit%20review/literature_review.md)
+
+## Phase 2: Proposal & Study Design (Weeks 7-9)
+[Proposal & Study Design Guide](./phases/proposal_study_design.md)
+
+## Phase 3: Study Report & Analysis (Weeks 9-12)
+[Study Report & Analysis Guide](./phases/study_report_analysis.md)
+
+## Phase 4: Discussion & First Draft (Weeks 13-14)
+[Discussion & First Draft Guide](./phases/discussion_first_draft.md)
+
+## Phase 5: Final Presentation (Weeks 15-16)
+Presentation guidelines will be provided in class.
+
+---
+
+# Additional Resources
+
+## Project Ideas
 [Project Ideas](./project_ideas.md)
 
-# Topic Selection Worksheet
+## Topic Selection Worksheet
 [Worksheet](./worksheet.md)

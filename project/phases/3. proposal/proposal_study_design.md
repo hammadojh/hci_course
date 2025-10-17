@@ -9,7 +9,7 @@ A research proposal is your detailed plan for conducting an HCI study that trans
 - A copy-paste of your proxy paper's methodology
 - A theoretical discussion without concrete plans
 
-**It IS:**
+**It is:**
 - A detailed, executable plan adapted from your proxy paper
 - A comprehensive design addressing your research gap
 - A demonstration of rigorous HCI research capability
