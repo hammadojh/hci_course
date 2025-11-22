@@ -57,10 +57,10 @@ Upon successful completion of the course, students will be able to:
 | 10   | Data at Scale and Visualization                                                    | 3             | 10             |    Proposal        |                       |
 | 11   | Interfaces + Ideation and Prototyping Techniques                                   | 6             | 7, 12          |                    |  2: Analysis          |
 | 12*  | Quiz + Interaction Design in Practice                                              | 3             | 13             |                    |                       |
-| 13   | Evaluation Methods (Heuristics, Usability Testing)                                 | 3             | 14, 15         |   Study Report     |                       |
+| 13   | Evaluation Methods (Heuristics, Usability Testing)                                 | 3             | 14, 15         |                    |                       |
 | 14   | Analytics                                                                          | 3             | 16             |                    |  3: Build & Evaluate  |
-| 15   | Presentations                                                                      | -             | -              |                    |                       |
-| 16   | Final Exam                                                                         | 3             | 16             |    First Draft     |                       |
+| 15   | Presentations                                                                      | -             | -              |    First Draft     |                       |
+| 16   | Final Exam                                                                         | 3             | 16             |                    |                       |
 
 More Detailed breakdown can be found here in this [sheet](https://kfupmedusa-my.sharepoint.com/:x:/g/personal/omarjh_kfupm_edu_sa/EQExW0oB-kZBkdoK3qKXinMB0A-m-bzlzIKXam_EjKVvcA?e=tF0HQ3)
 
